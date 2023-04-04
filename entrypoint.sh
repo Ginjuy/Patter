@@ -5,7 +5,7 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuidone=dccddb4a-1eb6-460f-9a09-51aaf01a1936
+uuidone=32c459ea-4429-4a23-ad15-9732dafc8331
 uuidtwo=bba2000b-c0ac-4260-82cd-c190a68e0ea6
 uuidthree=550c0582-4651-465d-9b9f-8b39b14b787e
 uuidfour=2e468aae-e26e-489e-889e-1adac276b244
